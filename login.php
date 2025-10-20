@@ -38,7 +38,10 @@
             <button class="btn btn-primary" type="submit">Sign in</button>
           </div>
         </form>
-
+<p class="text-center text-muted mt-3 mb-0 small">
+Don’t have an account?
+<a href="register.php" class="text-decoration-none">Create one</a>
+</p>
         <p class="text-center text-muted mt-3 mb-0 small">Demo only — do not use weak passwords.</p>
       </div>
     </div>
